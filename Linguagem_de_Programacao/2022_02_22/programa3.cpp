@@ -13,15 +13,15 @@ class Media
 
 int main()
 {
-    Media x;
-    x.lerDados();
-    x.calcularMedia();
-    x.imprimirMedia();
+    Media obj; //Objeto, - Instancia da classe Media.
+    obj.lerDados();
+    obj.calcularMedia();
+    obj.imprimirMedia();
     return(0);   
 }
 
 void Media::lerDados(void)
-{
+{  
     cout<<"Informe um n1: ";
     cin>>n1;
     cout<<"Informe um n2: ";
