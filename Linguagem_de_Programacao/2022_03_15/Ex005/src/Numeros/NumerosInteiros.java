@@ -22,7 +22,6 @@ public class NumerosInteiros {
 
     public int comparacao(){
         int result = 0;
-        String a = null;
         if (x > y)
         {
             result = x;
