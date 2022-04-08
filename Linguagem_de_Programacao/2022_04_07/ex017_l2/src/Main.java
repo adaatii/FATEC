@@ -1,6 +1,9 @@
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	OrdemDecrescente obj = new OrdemDecrescente();
+    obj.lerDados();
+    obj.ordenar();
+    obj.imprimirDecrescente();
     }
 }
