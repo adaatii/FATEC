@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b3494b4-7674-4ef7-8363-6945d20d730e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2022_04_08/ex014_l2/src/Caracter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022_04_08/ex014_l2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022_03_08/Ex001/Ex001.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022_03_08/Ex002/Ex002.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022_03_08/Ex003/Ex003.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022_03_08/Ex008/Ex008.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022_03_10/Ex004/Ex004.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022_03_10/ExMatriz/ExMatriz.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022_03_10/ExVetor/ExVetor.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022_03_15/Ex005/Ex005.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022_03_17/Ex006/Ex006.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022_03_17/Ex007/Ex007.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022_03_22/ex001_l2/ex001_l2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022_03_22/ex002_l2/ex002_l2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022_04_06/ex003_l2/ex003_l2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022_04_06/ex010_l2/ex010_l2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022_04_06/ex013_l2/ex013_l2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022_04_07/ex005_l2/ex005_l2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022_04_07/ex015_l2/ex015_l2.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27eVxFq5WIqu8K7UjEjHyrgHVJz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2022_04_07/ex005_l2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b3494b4-7674-4ef7-8363-6945d20d730e" name="Changes" comment="" />
+      <created>1649680783128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649680783128</updated>
+    </task>
+    <servers />
+  </component>
+</project>
