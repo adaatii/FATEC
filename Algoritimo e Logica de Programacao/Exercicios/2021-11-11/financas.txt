@@ -1,0 +1,10 @@
+
+Modelo do veiculo: PALIO
+
+Valor inicial = 1000.00
+
+Valor da parcela (1) = 1020.00
+
+Valor da parcela (2) = 1040.40
+
+Valor da parcela (3) = 1061.21
